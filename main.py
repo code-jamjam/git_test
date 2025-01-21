@@ -58,6 +58,7 @@ def main():
 
 if __name__=="__main__":
      main()
+     
     #  app = QApplication(sys.argv) # 클래스 생성
     #  view = Calculator() # 클래스 생성
     #  sys.exit(app.exec_()) # 애플리케이션에서 이벤트를 처리하는 루프 생성
